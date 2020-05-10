@@ -1,0 +1,25 @@
+h5{
+	padding-left: 1.5%; color: #3366ff;
+
+}
+
+p{
+	padding-left: 5% ;
+}
+
+h2{
+	color: red; 
+	border-bottom:double; 
+	border-color: #006666;
+}
+
+.body{
+	padding-right: 10%; 
+	padding-left:10%; 
+	background: linear-gradient(to bottom, #e0e0e0 0%, #ffffff 78%);
+}
+
+.button{
+	text-align: center;
+	alignment-baseline: central;
+}
